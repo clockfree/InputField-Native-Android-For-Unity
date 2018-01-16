@@ -16,7 +16,7 @@ create new empty gameobject and add component "InputFieldHandler"
 
 done
 
-#How To get Text from InputFieldWF?
+# How To get Text from InputFieldWF?
 each InputFieldWF have KeyBoard script inside the script  variable "text"
 
 example
